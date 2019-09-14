@@ -1,0 +1,180 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://github.com/psy250519/aboutyohjiyamamoto.git" resolutions="1x" timestamp="1568440002121">
+  <folder name="css">
+    <file name="site_global.css" crc="65641524"/>
+    <file name="index.css" crc="3813346332" ref="index"/>
+    <file name="nomq_index.css" crc="4117972004" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="yohji-yamamoto---inspiring-designer.pdf" crc="278950706" seo="true" mt="1565059804000"/>
+    <file name="yamamoto_interview.jpg" crc="3869056466" seo="true" mt="1565060061000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="subway_grey.gif" crc="273338444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1851-5.png" crc="333740710" ref="index"/>
+    <file name="u4045-4.png" crc="86397319" ref="index"/>
+    <file name="u2314-6.png" crc="3801314412" ref="index"/>
+    <file name="u2290-6.png" crc="3907464764" ref="index"/>
+    <file name="u9568-8.png" crc="202321739" ref="index"/>
+    <file name="u3422-4.png" crc="248003771" ref="index"/>
+    <file name="u1929-5.png" crc="4249186348" ref="index"/>
+    <file name="u2887-9.png" crc="44933913" ref="index"/>
+    <file name="7_yohjiyamamoto_dariocatellani_bon-magazine_13.jpg" crc="3954336029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u4250_states.png" crc="4003364947" ref="index"/>
+    <file name="u4250_states-r.png" crc="194444630" ref="index"/>
+    <file name="backstage-_yoshi-beauty-printemps-ete-2018-2-crop-u2067.jpg" crc="3957713145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4631_states.png" crc="4091632465" ref="index"/>
+    <file name="u4631_states-r.png" crc="495147914" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114782x521.jpg" crc="4072211803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4688_states.png" crc="61706026" ref="index"/>
+    <file name="u4688_states-r.png" crc="415688623" ref="index"/>
+    <file name="5-6.jpg" crc="4251053600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-10.jpg" crc="4047001174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3095_states.png" crc="3994397105" ref="index"/>
+    <file name="u3095_states-r.png" crc="169590743" ref="index"/>
+    <file name="u7869-11.png" crc="60777865" ref="index"/>
+    <file name="u6366_states.png" crc="3849704338" ref="index"/>
+    <file name="u6366_states-r.png" crc="4080276503" ref="index"/>
+    <file name="u7218_states.png" crc="253246425" ref="index"/>
+    <file name="u7218_states-r.png" crc="249417387" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114.jpg" crc="41173155" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2314-62.png" crc="3801314412" ref="index"/>
+    <file name="u2290-62.png" crc="3907464764" ref="index"/>
+    <file name="u9568-82.png" crc="400261305" ref="index"/>
+    <file name="u3422-42.png" crc="316030377" ref="index"/>
+    <file name="u1851-52.png" crc="4198864098" ref="index"/>
+    <file name="u4045-42.png" crc="3824963962" ref="index"/>
+    <file name="u1929-52.png" crc="488923848" ref="index"/>
+    <file name="u2887-92.png" crc="3853342361" ref="index"/>
+    <file name="backstage-_yoshi-beauty-printemps-ete-2018-2-crop-u20672.jpg" crc="404422712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4631_states2.png" crc="3786660417" ref="index"/>
+    <file name="u4631_states-r2.png" crc="3783455349" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114500x334.jpg" crc="14704733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4688_states2.png" crc="158587640" ref="index"/>
+    <file name="u4688_states-r2.png" crc="4051208961" ref="index"/>
+    <file name="u3095_states2.png" crc="423166025" ref="index"/>
+    <file name="u3095_states-r2.png" crc="235493008" ref="index"/>
+    <file name="u4250_states2.png" crc="292572395" ref="index"/>
+    <file name="u4250_states-r2.png" crc="485394720" ref="index"/>
+    <file name="u7869-112.png" crc="343014878" ref="index"/>
+    <file name="u6366_states2.png" crc="521626835" ref="index"/>
+    <file name="u6366_states-r2.png" crc="4290676379" ref="index"/>
+    <file name="u7218_states2.png" crc="11057068" ref="index"/>
+    <file name="u7218_states-r2.png" crc="4223524565" ref="index"/>
+    <file name="u9568-83.png" crc="88109559" ref="index"/>
+    <file name="u3422-43.png" crc="4100974253" ref="index"/>
+    <file name="u2314-63.png" crc="3801314412" ref="index"/>
+    <file name="u2290-63.png" crc="3907464764" ref="index"/>
+    <file name="u1929-53.png" crc="3858844892" ref="index"/>
+    <file name="u2887-93.png" crc="4229430625" ref="index"/>
+    <file name="u1851-53.png" crc="4218096796" ref="index"/>
+    <file name="u4045-43.png" crc="4251486530" ref="index"/>
+    <file name="backstage-_yoshi-beauty-printemps-ete-2018-2-crop-u20673.jpg" crc="26201728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4631_states3.png" crc="71550762" ref="index"/>
+    <file name="u4631_states-r3.png" crc="138737974" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114480x320.jpg" crc="4266300796" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4688_states3.png" crc="3778451735" ref="index"/>
+    <file name="u4688_states-r3.png" crc="3841339559" ref="index"/>
+    <file name="5-6231x156.jpg" crc="3930674404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-10231x156.jpg" crc="99797181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3095_states3.png" crc="3913259970" ref="index"/>
+    <file name="u3095_states-r3.png" crc="4177203619" ref="index"/>
+    <file name="7_yohjiyamamoto_dariocatellani_bon-magazine_13204x282.jpg" crc="3927127544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4250_states3.png" crc="292572395" ref="index"/>
+    <file name="u4250_states-r3.png" crc="485394720" ref="index"/>
+    <file name="u7869-113.png" crc="477915031" ref="index"/>
+    <file name="u6366_states3.png" crc="3777297482" ref="index"/>
+    <file name="u6366_states-r3.png" crc="388431027" ref="index"/>
+    <file name="u7218_states3.png" crc="4280855253" ref="index"/>
+    <file name="u7218_states-r3.png" crc="3978046314" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114768x512.jpg" crc="4127718827" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1851-54.png" crc="349611328" ref="index"/>
+    <file name="u4045-44.png" crc="4046706633" ref="index"/>
+    <file name="u2314-64.png" crc="3816097137" ref="index"/>
+    <file name="u2290-64.png" crc="339206448" ref="index"/>
+    <file name="u9568-84.png" crc="4284002349" ref="index"/>
+    <file name="u3422-44.png" crc="357742428" ref="index"/>
+    <file name="u1929-54.png" crc="4267880391" ref="index"/>
+    <file name="u2887-94.png" crc="4003984350" ref="index"/>
+    <file name="backstage-_yoshi-beauty-printemps-ete-2018-2-crop-u20674.jpg" crc="404422712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4631_states4.png" crc="3786660417" ref="index"/>
+    <file name="u4631_states-r4.png" crc="3783455349" ref="index"/>
+    <file name="yohji_yamamoto_aw16_6w5a4114320x214.jpg" crc="279235803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4688_states4.png" crc="4050149791" ref="index"/>
+    <file name="u4688_states-r4.png" crc="4171961787" ref="index"/>
+    <file name="u4250_states4.png" crc="292572395" ref="index"/>
+    <file name="u4250_states-r4.png" crc="485394720" ref="index"/>
+    <file name="5-6265x180.jpg" crc="83560340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-10300x204.jpg" crc="4167941111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3095_states4.png" crc="440265033" ref="index"/>
+    <file name="u3095_states-r4.png" crc="3944830511" ref="index"/>
+    <file name="u7869-114.png" crc="3787195504" ref="index"/>
+    <file name="u6366_states4.png" crc="4064461112" ref="index"/>
+    <file name="u6366_states-r4.png" crc="326451034" ref="index"/>
+    <file name="u7218_states4.png" crc="215806295" ref="index"/>
+    <file name="u7218_states-r4.png" crc="4147232286" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4026876717" seo="true" mt="1568440001411" redirect="true"/>
+</manifest>
